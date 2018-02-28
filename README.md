@@ -13,8 +13,6 @@
 5. 搭配配置中心，本项目与百度配置中心disconf搭配；配置中心可以更换为其他，需自行实现
  
 
-
-#### 总体架构图
 ![image](https://github.com/GavinYao2018/disconfnet/blob/master/Pic/%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 
