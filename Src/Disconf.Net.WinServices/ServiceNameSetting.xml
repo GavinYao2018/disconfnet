@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <ServiceName>Disconf.Net.Services</ServiceName>
+  <DisplayName>Disconf.Net.Services</DisplayName>
+  <Description>Disconf .Net版服务端</Description>
+</Settings>

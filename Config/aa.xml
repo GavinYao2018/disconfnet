@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AppSettings Cache="true">
+
+  <!--消息通知,N天内未成功的,一直通知-->
+  <add key="AAA" value="1234355"></add>
+  <Person Name="张三002" Name2="张三" Age="18" Height="185" />
+
+  <FaceMsgList2>
+    <FaceMsg MsgKey="API_NOT_FOUND" MsgType="" MsgTip="如需帮助请联系客服电话:400-106-6698。" />
+    <FaceMsg MsgKey="AUTHORIZATION_ERROR" MsgType="身份证验证" MsgTip="您上传的图片不符合以下标准,请重新上传。&lt;br&gt;• 身份证照为本人,确保清晰、完整,并且图片的文字为正方向。" />
+  </FaceMsgList2>
+  
+</AppSettings>
