@@ -63,4 +63,7 @@ var height = AppSettingsManager.GetAttributesValue("Person", "Height");
 2. 配置disconf，指定disconf服务地址以及环境
 3. 注册需要disconf管理的客户端配置
 
+![image](https://github.com/GavinYao2018/disconfnet/blob/master/Pic/config_disconf.png)
+
 ![image](https://github.com/GavinYao2018/disconfnet/blob/master/Pic/client_register.png)
+
